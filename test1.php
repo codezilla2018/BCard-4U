@@ -4,6 +4,7 @@
 	
 	$test = new bcard4u;
 	
-	$test = setValue("");
-	
+	$test = setValue("name","sample");
+	$test = setValue("email","sample@gmail.com");
+
 ?>

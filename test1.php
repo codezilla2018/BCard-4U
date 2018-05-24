@@ -8,4 +8,5 @@
 	$test = setValue("email","sample@gmail.com");
 	$test = setValue("photo","");
 	$test = setValue("web address","");
+
 ?>

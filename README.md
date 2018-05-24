@@ -15,4 +15,4 @@ This site will be generate QR-Code for your businees.
 
 This is sample test in business card generator site. It used business card generator libary.
 
-<img src="img/ttt.JPG" alt="loading screenshot"  width="320" height="200"/>
+<img src="img/ttt.JPG" alt="loading screenshot"  width="664" height="337"/>

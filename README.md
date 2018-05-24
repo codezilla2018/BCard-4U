@@ -5,3 +5,8 @@ php business card generator library. Business card jpeg will be generated for gi
 
 ## Home Page
 <img src="img/hhuh.JPG" alt="loading screenshot"  width="200" height="320"/>
+
+## QR-Code
+This site will be generate QR-Code for your businees.
+
+<img src="img/default_qrcode.png" alt="loading screenshot"  width="200" height="320"/>
